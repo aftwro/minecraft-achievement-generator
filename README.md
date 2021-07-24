@@ -1,3 +1,7 @@
+# I'm planning to make a modified version of this project for personal use, SoonTM. - Nick
+
+
+
 # Minecraft Achievement Generator
 This is a simple, in PHP written, Generator of Minecraft Achievements for your website or blog.
 
